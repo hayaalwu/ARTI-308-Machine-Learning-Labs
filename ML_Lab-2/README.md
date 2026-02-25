@@ -19,7 +19,7 @@ The objective of this lab is to predict the survival status of breast cancer pat
 This is a **supervised learning** problem formulated as a **binary classification** task.
 
 ### Target Variable
-- **Status**: Indicates the patient outcome (e.g., alive or deceased).
+- **Status**: Indicates the patient outcome (Alive or Dead).
 
 ---
 
