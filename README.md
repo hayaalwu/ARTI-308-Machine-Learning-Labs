@@ -13,5 +13,4 @@ This repository will be used throughout the course to document:
 
 Beyond the course, this repository reflects my personal learning journey and my interest in sharing knowledge in a simple and practical way through clearer explanations, practical examples, and educational content.
 
-**Note:** Explanations and learning guides for these labs are provided through a dedicated YouTube playlist hosted on my personal channel:
-https://youtube.com/playlist?list=PLCV4Y_mzJ81YTNdsEK0hztA-Bt0COjgFw&si=rQ4tumf25sBv7-f8
+**Note:** Explanations and learning guides for these labs are provided through a dedicated YouTube playlist hosted on my personal channel: [HayaxAI – ARTI 308: Machine Learning Playlist](https://youtube.com/playlist?list=PLCV4Y_mzJ81YTNdsEK0hztA-Bt0COjgFw&si=rQ4tumf25sBv7-f8)
